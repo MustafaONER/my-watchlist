@@ -1,3 +1,15 @@
+# Watch List
+
+This project is about a watchlist. In this project, I used React with Context API, useReducer, and Local Storage. I used TMDB API for movie data.
+
+## Demo
+
+![demo](https://user-images.githubusercontent.com/89279863/182246109-a1385864-3be9-489c-b638-9be2dc314364.gif)
+
+
+Demo Link: [https://mo-watchlist.netlify.app/](https://mo-watchlist.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
